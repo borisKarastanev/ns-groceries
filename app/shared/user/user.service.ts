@@ -35,9 +35,9 @@ export class UserService {
         return this.http.post(
             Config.apiUrl + "oauth/token",
             JSON.stringify({
-                Username: user.email,
-                Password: user.password,
-                grant_type: 'password'
+                username: user.email,
+                password: user.password,
+                grant_type: "password"
             }),
             {headers: headers}
         )
