@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="389bbe74-35fa-40a9-b1b1-517d1c2c7bc0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/banana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/bg_inner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/bg_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/checked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/logo_login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/logo_signup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/nonselected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/pear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/unchecked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/banana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/bg_inner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/bg_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/checked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/logo_login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/logo_signup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/nonselected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/pear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/unchecked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/banana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/bg_inner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/bg_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/checked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/logo_login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/logo_signup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/nonselected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/pear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/unchecked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/banana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/bg_inner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/bg_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/checked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/logo_login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/logo_signup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/nonselected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/pear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/unchecked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/banana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/checked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/logo_login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/logo_signup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/nonselected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/pear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/unchecked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/Icon-60@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-50@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-57@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-76@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-83.5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-736h@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/LaunchScreen-AspectFill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/LaunchScreen-AspectFill@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/LaunchScreen-Center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/LaunchScreen-Center@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/iTunesArtwork@1x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/iTunesArtwork@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/iTunesArtwork@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-60@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-Small-40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-Small-40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-Small-40@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-Small-50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-Small-50@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-Small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-Small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Icon-Small@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/add@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/add@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/apple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/apple@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/banana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/banana@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/banana@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/bg_inner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/bg_inner@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/bg_inner@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/bg_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/bg_login@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/bg_login@3x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/checked@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/checked@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/checked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/checked_white@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/checked_white@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/delete@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/delete@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/iTunesArtwork@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/icon-60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/icon-60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/icon-72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/icon-76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/icon-76@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/logo_login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/logo_login@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/logo_login@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/logo_signup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/logo_signup@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/logo_signup@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/menu@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/menu@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/nonselected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/nonselected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/nonselected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/pear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/pear@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/pear@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/recent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/recent@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/recent@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/selected@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/selected@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/unchecked@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/unchecked@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/unchecked_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/unchecked_white@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/unchecked_white@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/iOS/build.xcconfig" />
+    </list>
+    <ignored path="groceries-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="groceries-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-3" />
+    <option name="y" value="31" />
+    <option name="width" value="1926" />
+    <option name="height" value="1131" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceries-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceries-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceries-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceries-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceries-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="389bbe74-35fa-40a9-b1b1-517d1c2c7bc0" name="Default" comment="" />
+      <created>1477056809938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477056809938</updated>
+      <workItem from="1477056811243" duration="39000" />
+      <workItem from="1477056951528" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="31" width="1926" height="1131" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15429173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
