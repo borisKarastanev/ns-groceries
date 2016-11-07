@@ -28,7 +28,6 @@ export class UserService {
     }
 
     login(user: User) {
-        console.log('User credentials ', user);
         let headers = new Headers();
         headers.append("Content-Type", "application/json");
 
@@ -39,10 +38,10 @@ export class UserService {
                 password: user.password,
                 grant_type: "password"
             }),
-            {headers: headers}
+            { headers: headers }
         )
             .map(response => response.json())
-            .do(data =>{
+            .do(data => {
                 Config.token = data.Result.access_token;
             })
             .catch(this.handleErrors);
